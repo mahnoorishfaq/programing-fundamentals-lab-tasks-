@@ -28,7 +28,7 @@ To run any of the source files locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/mahnoorishfaq/your-repo-name.git](https://github.com/mahnoorishfaq/your-repo-name.git)
+   git clone [https://github.com/mahnoorishfaq//programing-fundamentals-lab-tasks-.git]
 
 1- Open any .cpp file in your preferred C++ compiler.
 2- Compile and run the code to view the output.
