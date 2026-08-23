@@ -1,4 +1,4 @@
-# C++ Programming Labs & Practice Work 🚀
+# C++ Programming Labs & Practice Work
 
 Welcome to my repository containing a collection of C++ programs, university lab tasks, and practice exercises. This collection highlights fundamental programming concepts, control structures, and algorithmic logic.
 
@@ -22,7 +22,7 @@ This repository includes various foundational C++ scripts and their compiled exe
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run any of the source files locally:
 
