@@ -3,7 +3,7 @@ using namespace std;
 main()
 { 
    int number, digit, sum;
-   cout<<"Enter a number :";
+   cout<<"Enter any number :";
    cin>>number;
    while(number>0)
    {
