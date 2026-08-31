@@ -4,7 +4,7 @@ Welcome to my repository containing a collection of C++ programs, university lab
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 This repository includes various foundational C++ scripts and their compiled executables:
 
