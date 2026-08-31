@@ -15,7 +15,7 @@ This repository includes various foundational C++ scripts and their compiled exe
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Language:** C++
 * **Environment:** Local C++ IDE / Compiler (e.g., Dev-C++, Code::Blocks, or VS Code)
